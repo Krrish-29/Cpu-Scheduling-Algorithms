@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #define MAX_PROCESSES 20
 int main() {
     int totalMemory, usedMemory = 0;

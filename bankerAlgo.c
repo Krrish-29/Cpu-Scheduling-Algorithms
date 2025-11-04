@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdbool.h>
 #define MAX_P 10
 #define MAX_R 10

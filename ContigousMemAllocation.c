@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #define MAX_BLOCKS 10
 #define MAX_PROCESSES 10
 void firstFit(int blockSize[], int blocks, int processSize[], int processes) {

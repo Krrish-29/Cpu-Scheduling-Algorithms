@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #define MAX_PARTITIONS 10
 #define MAX_PROCESSES 10
 int main() {

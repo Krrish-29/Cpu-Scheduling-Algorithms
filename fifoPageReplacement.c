@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdbool.h>
 #define MAX 50
 void fifo(int pages[], int n, int frames) {
